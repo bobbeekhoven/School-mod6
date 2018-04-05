@@ -1,0 +1,7 @@
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod06\Democode\Starter\FourthCoffee.LogProcessor\FourthCoffee.LogProcessor\obj\Debug\FourthCoffee.LogProcessor.csprojResolveAssemblyReference.cache
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod06\Democode\Starter\FourthCoffee.LogProcessor\FourthCoffee.LogProcessor\obj\Debug\FourthCoffee.LogProcessor.csproj.CoreCompileInputs.cache
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod06\Democode\Starter\FourthCoffee.LogProcessor\FourthCoffee.LogProcessor\bin\Debug\FourthCoffee.LogProcessor.exe.config
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod06\Democode\Starter\FourthCoffee.LogProcessor\FourthCoffee.LogProcessor\bin\Debug\FourthCoffee.LogProcessor.exe
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod06\Democode\Starter\FourthCoffee.LogProcessor\FourthCoffee.LogProcessor\bin\Debug\FourthCoffee.LogProcessor.pdb
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod06\Democode\Starter\FourthCoffee.LogProcessor\FourthCoffee.LogProcessor\obj\Debug\FourthCoffee.LogProcessor.exe
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod06\Democode\Starter\FourthCoffee.LogProcessor\FourthCoffee.LogProcessor\obj\Debug\FourthCoffee.LogProcessor.pdb
